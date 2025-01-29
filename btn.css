@@ -1,0 +1,21 @@
+.example {
+    width: 250px;
+    padding: 0px 0px 30px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    gap: 10px;
+}
+
+.btns {
+    display: flex;
+    gap: 10px;
+}
+
+a {
+    text-decoration: none;
+    background-color: royalblue;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
